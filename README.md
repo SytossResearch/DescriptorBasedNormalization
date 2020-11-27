@@ -10,6 +10,6 @@ This work is dedicated to:
 ### <img src="/doc/images/normalization_keypoints.jpg" width="200" align="left">[Normalization of geometrical transformations based on the descriptors](https://www.google.com/) 
 <br/><br/><br/><br/><br/><br/>
 ### <img src="/doc/images/normalization_matches.jpg" width="200" align="left">[The purpose and content of experiments](https://www.google.com/)
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
 ### <img src="/doc/images/dataset.png" width="200" align="left">[Dataset description for research of descriptor-based normalization](https://www.google.com/) 
 
