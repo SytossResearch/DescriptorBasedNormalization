@@ -8,9 +8,9 @@ This work is dedicated to:
 * comparing the quality and time costs of the normalization process based on different descriptors. For comparison were selected the full-cycle descriptors, such as SURF128, SURF64, SIFT, BRISK, ORB, ORB1000, KAZE, AKAZE.
 
 ### <img src="/doc/images/normalization_keypoints.PNG" width="300" align="left">[Normalization of geometrical transformations based on the descriptors](https://www.google.com/) 
-<br/><br/>
+<br/><br/><br/><br/>
 ### <img src="/doc/images/normalization_matches.jpg" width="300" align="left">[The purpose and content of experiments](https://www.google.com/)
-<br/><br/>
+<br/><br/><br/><br/>
 ### <img src="/doc/images/dataset.png" width="300" align="left">[Dataset description for research of descriptor-based normalization](https://www.google.com/) 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### <img src="/doc/images/expert_rates_diagram.png" width="300" align="left">[Some diagrams and results obtained in the experiments and conclusions on experiments](https://www.google.com/) 
