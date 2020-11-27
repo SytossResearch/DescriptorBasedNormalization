@@ -7,10 +7,4 @@ This work is dedicated to:
 * research of the parametric normalization approach, where key points and their descriptors are used to find out the normalization parameters;
 * comparing the quality and time costs of the normalization process based on different descriptors. For comparison were selected the full-cycle descriptors, such as SURF128, SURF64, SIFT, BRISK, ORB, ORB1000, KAZE, AKAZE.
 
-### 1. <img src="/doc/images/normalization_keypoints.jpg" height="200" align="left">  [Normalization of geometrical transformations based on the descriptors]()
-
-
-### <img src="/doc/images/normalization_matches.jpg" height="200" align="left">  [The purpose and content of experiments]()
-
-
-### <img src="/doc/images/dataset.png" height="200" align="left">  [Dataset description for research of descriptor-based normalization]() 
+### <img src="/doc/images/normalization_keypoints.jpg" height="200" align="left">  [Normalization of geometrical transformations based on the descriptors]()
