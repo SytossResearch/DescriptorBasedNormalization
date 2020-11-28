@@ -10,33 +10,33 @@ This work is dedicated to:
 <p align="center">
   <a href="#">Normalization of geometrical transformations based on the descriptors</a>
   <br>
-  <img src="/doc/images/normalization_keypoints.jpg" width="300"> 
+  <img src="/doc/images/normalization_keypoints.jpg" width="100"> 
   <br><br>
 </p>
 
 <p align="center">
   <a href="#">The purpose and content of experiments</a>
   <br>
-  <img src="/doc/images/normalization_matches.jpg" width="300">
+  <img src="/doc/images/normalization_matches.jpg" width="100">
   <br><br>
 </p>
 
 <p align="center">
   <a href="#">Dataset description for research of descriptor-based normalization</a>
   <br>
-  <img src="/doc/images/dataset.png" width="300">
+  <img src="/doc/images/dataset.png" width="100">
   <br><br>
 </p>
 <p align="center">
   <a href="#">Some diagrams and results obtained in the experiments and conclusions on experiments</a>
   <br>
-  <img src="/doc/images/expert_rates_diagram.png" width="300">
+  <img src="/doc/images/expert_rates_diagram.png" width="100">
   <br><br>
 </p>
 <p align="center">
   <a href="#">Conclusions</a>
   <br>
-  <img src="/doc/images/conclutions.png" width="300">
+  <img src="/doc/images/conclutions.png" width="100">
 </p>
 
 
