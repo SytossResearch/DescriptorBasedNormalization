@@ -14,7 +14,7 @@ This work is dedicated to:
   </tr>
   <tr></tr>
   <tr>
-    <td align="center"><img src="/doc/images/normalization_matches.jpg" width="200"  align="center"></td>
+    <td align="center"><img src="/doc/images/normalization_matches.jpg" height="200"  align="center"></td>
     <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/The%20purpose%20and%20content%20of%20experiments.md#the-purpose-and-content-of-experiments">The purpose and content of experiments</a></td>
   </tr>
   <tr></tr>
@@ -24,12 +24,12 @@ This work is dedicated to:
   </tr>
   <tr></tr>
   <tr>
-    <td align="center"><img src="/doc/images/expert_rates_diagram.png" width="200"  align="center"></td>
+    <td align="center"><img src="/doc/images/expert_rates_diagram.png" height="200"  align="center"></td>
     <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Some%20diagrams%20and%20results%20obtained%20in%20the%20experiments%20and%20conclusions%20on%20experiments.md#some-diagrams-and-results-obtained-in-the-experiments-and-conclusions-on-experiments">Some diagrams and results obtained in the experiments and conclusions on experiments</a></td>
   </tr>
   <tr></tr>
   <tr>
-    <td align="center"><img src="/doc/images/conclutions.png" width="200"  align="center"></td>
+    <td align="center"><img src="/doc/images/conclutions.png" height="200"  align="center"></td>
     <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Conclusions.md#conclusions">Conclusions</a></td>
   </tr>
 </table>
