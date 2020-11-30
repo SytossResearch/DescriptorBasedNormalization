@@ -10,7 +10,7 @@ This work is dedicated to:
 <table align="center">
   <tr>
     <td align="center"><img src="/doc/images/normalization_keypoints.jpg" width="200" align="center"></td>
-    <td align="left"><a href="#">Normalization of geometrical transformations based on the descriptors</a></td>
+    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Normalization%20of%20geometrical%20transformations%20based%20on%20the%20descriptors.md#normalization-of-geometrical-transformations-based-on-the-descriptors">Normalization of geometrical transformations based on the descriptors</a></td>
   </tr>
   <tr></tr>
   <tr>
