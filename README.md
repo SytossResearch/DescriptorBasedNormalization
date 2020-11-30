@@ -19,7 +19,8 @@ This work is dedicated to:
 
 ### REPOSITORY STRUCTURE
 
-* Dataset_SYTOSS_NURE_pngPairs100 ⋅⋅⋅⋅⋅⋅⋅⋅⋅contains the description of the constructed dataset SYTOSS_NURE_pngPairs100 (Description SYTOSS_NURE100.pdf) and the dataset itself (100 ⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅image pairs as in Fig.6a–e)
+* Dataset_SYTOSS_NURE_pngPairs100 
+⋅⋅⋅contains the description of the constructed dataset SYTOSS_NURE_pngPairs100 (Description SYTOSS_NURE100.pdf) and the dataset itself (100 image pairs as in Fig.6a–e)
 
 * RawDataset_SYTOSS_NURE_arw - contains original raw images in ARW 
 Dataset_Day_Night_pngPairs3 - contains the description of the set Day_Night_pngPairs3 (Descripsion_Day_Night3.pdf) and this set itself (3 image pairs as in Fig.6f)
