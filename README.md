@@ -30,7 +30,7 @@ This work is dedicated to:
   <tr></tr>
   <tr>
     <td align="center"><img src="/doc/images/conclutions.png" width="200"  align="center"></td>
-    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Conclusions.md#conclusions"><a href="#">Conclusions</a></td>
+    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Conclusions.md#conclusions">Conclusions</a></td>
   </tr>
 </table>
 
