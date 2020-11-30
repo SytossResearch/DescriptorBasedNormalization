@@ -24,7 +24,7 @@ This work is dedicated to:
   </tr>
   <tr></tr>
   <tr>
-    <td align="center"><img src="/doc/images/expert_rates_diagram.png" align="center"></td>
+    <td align="center"><img src="/doc/images/expert_rates_diagram.png" width="500" align="center"></td>
     <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Some%20diagrams%20and%20results%20obtained%20in%20the%20experiments%20and%20conclusions%20on%20experiments.md#some-diagrams-and-results-obtained-in-the-experiments-and-conclusions-on-experiments">Some diagrams and results obtained in the experiments and conclusions on experiments</a></td>
   </tr>
   <tr></tr>
