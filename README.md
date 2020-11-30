@@ -19,7 +19,7 @@ This work is dedicated to:
   </tr>
   <tr></tr>
   <tr>
-    <td align="center"><img src="/doc/images/dataset.png" width="200"  align="center"></td>
+    <td align="center"><img src="/doc/images/dataset.png" height="200"  align="center"></td>
     <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Dataset%20description%20for%20research%20of%20descriptor-based%20normalization.md#dataset-description-for-research-of-descriptor-based-normalization">Dataset description for research of descriptor-based normalization</a></td>
   </tr>
   <tr></tr>
