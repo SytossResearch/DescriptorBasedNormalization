@@ -29,7 +29,7 @@ This work is dedicated to:
   </tr>
   <tr></tr>
   <tr>
-    <td align="center"><img src="/doc/images/normalization1.jpg" width="175"  align="center"> <img src="/doc/images/normalization2.jpg" width="175"  align="center"></td>
+    <td align="center"><img src="/doc/images/normalization1.jpg" width="150"  align="center"> <img src="/doc/images/normalization2.jpg" width="150"  align="center"></td>
     <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Conclusions.md#conclusions">Conclusions</a></td>
   </tr>
 </table>
