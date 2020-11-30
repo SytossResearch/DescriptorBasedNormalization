@@ -19,6 +19,7 @@ This work is dedicated to:
 
 ### REPOSITORY STRUCTURE
 
+Folder | Contains
 --- | --- 
 | Dataset_SYTOSS_NURE_pngPairs100     | contains the description of the constructed dataset SYTOSS_NURE_pngPairs100 (Description SYTOSS_NURE100.pdf) and the dataset itself (100 image pairs as in Fig.6a–e)    
 | RawDataset_SYTOSS_NURE_arw     | contains original raw images in ARW  
