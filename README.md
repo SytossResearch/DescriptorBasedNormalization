@@ -17,9 +17,36 @@ This work is dedicated to:
   <br><br>
   <img src="/doc/images/conclutions.png" width="200"  align="center"> <a href="#">Conclusions</a>
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="/doc/images/normalization_keypoints.jpg" width="200" align="center"></td>
+    <td align="left"><a href="#">Normalization of geometrical transformations based on the descriptors</a></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td align="center"><img src="/doc/images/normalization_matches.jpg" width="200"  align="center"></td>
+    <td align="left"><a href="#">The purpose and content of experiments</a></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td align="center"><img src="/doc/images/dataset.png" width="200"  align="center"></td>
+    <td align="left"><a href="#">Dataset description for research of descriptor-based normalization</a></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td align="center"><img src="/doc/images/expert_rates_diagram.png" width="200"  align="center"></td>
+    <td align="left"><a href="#">Some diagrams and results obtained in the experiments and conclusions on experiments</a></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td align="center"><img src="/doc/images/conclutions.png" width="200"  align="center"></td>
+    <td align="left"><a href="#"><a href="#">Conclusions</a></td>
+  </tr>
+</table>
+
 <h2>Repository structure</h2>
 
-Folder | Contains
+|Folder | Contains|
 --- | --- 
 | Dataset_SYTOSS_NURE_pngPairs100     | the description of the constructed dataset SYTOSS_NURE_pngPairs100 (Description SYTOSS_NURE100.pdf) and the dataset itself (100 image pairs as in Fig.6a–e)    
 | RawDataset_SYTOSS_NURE_arw     | original raw images in ARW  
