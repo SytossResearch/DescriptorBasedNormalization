@@ -36,7 +36,7 @@ This work is dedicated to:
 
 <h2>Repository structure</h2>
 
-|Name of folder | Contains|
+|&nbsp;&nbsp;Name&nbsp;of&nbsp;folder&nbsp;&nbsp; | Contains|
 --- | --- 
 | **[Dataset_SYTOSS_NURE_pngPairs100](https://github.com/SytossResearch/DescriptorBasedNormalization/tree/master/Dataset_SYTOSS_NURE_pngPairs100)**     | the description of the constructed dataset SYTOSS_NURE_pngPairs100 (Description SYTOSS_NURE100.pdf) and the dataset itself (100 image pairs as in Fig.6a–e)    
 | **[RawDataset_SYTOSS_NURE_arw](https://github.com/SytossResearch/DescriptorBasedNormalization/tree/master/RawDataset_SYTOSS_NURE_arw)**     | original raw images in ARW  
