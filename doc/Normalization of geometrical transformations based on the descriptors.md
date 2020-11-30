@@ -58,8 +58,8 @@ The normalization algorithm used in the work consists of the following steps:
 <p>
 
 ### More examples of normalization are here [ссылка]
-### All results of normalization for the SYTOSS_NURE_pngPairs100(ссылка) dataset  are here [ссылка]
-### All results of normalization for the Day_Night_pngPairs3(ссылка) dataset  are here [ссылка]
+### All results of normalization for the [SYTOSS_NURE_pngPairs100](https://github.com/SytossResearch/DescriptorBasedNormalization/tree/master/Dataset_SYTOSS_NURE_pngPairs100) dataset  are [here](https://github.com/SytossResearch/DescriptorBasedNormalization/tree/master/NormalizationSYTOSS_NURE_pngPairs100)
+### All results of normalization for the [Day_Night_pngPairs3](https://github.com/SytossResearch/DescriptorBasedNormalization/tree/master/Dataset_Day_Night_pngPairs3) dataset  are [here](https://github.com/SytossResearch/DescriptorBasedNormalization/tree/master/NormalizationDay_Night_pngPairs3)
 
   
   
