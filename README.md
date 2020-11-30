@@ -1,4 +1,4 @@
-<h1>Descriptor Research</h1>
+<h1>Descriptor Based Normalization</h1>
 
 This material is intended to accompany the paper "Research of descriptor based image normalization and comparative analysis of SURF, SIFT, BRISK, ORB, KAZE, AKAZE DESCRIPTORS". The full version can be found at the link [].
 It contains the own dataset with 100 image pairs, the normalized images, their overlaps, the tables with different estimations, the summary diagrams.
