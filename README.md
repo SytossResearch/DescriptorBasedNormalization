@@ -46,7 +46,7 @@ This work is dedicated to:
 
 <h2>References</h2>
 
-1.	Gorokhovatskij, V.A. (2014), Strukturny`j analiz i intellektual`naya obrabotka danny`kh v komp`yuternom zrenii [Structural analysis and data mining in computer vision], Kompaniya SMIT, Khar`kov, 316 p. (in Russian)
+1.	Gorokhovatskij, V.A. (2014), Strukturny\`j analiz i intellektual\`naya obrabotka danny\`kh v komp\`yuternom zrenii [Structural analysis and data mining in computer vision], Kompaniya SMIT, Khar\`kov, 316 p. (in Russian)
 2.	Putyatin, E.P. and Averin, S.I. (1990), Obrabotka izobrazhenij v robototekhnike [Image processing in robotics], Mashinostroenie, Moscow, 320 p. (in Russian)
 3.	Krizhevsky, A., Sutskever, I., and Hinton, G.E. (2017), ImageNet classification with deep convolutional neural networks. Communications of the ACM, No60(6), pp. 84-90. 
 4.	Putjatin E.P., Jakovleva E.V., Ljubchenko V.A. (1996), “Razlozhenie matricy centroaffinnogo preobrazovanija dlja normalizacii izobrazhenij” [Centroaffine transformation matrix decomposition for image normalization], Radiojelektronika i informatika No. 4 (05), pp. 91–94. (in Russian)
