@@ -72,8 +72,8 @@
 <h2>Normalization result for texture_artificial subset of pair #13 (13_0.png & 13_1.png)</h2>
 
 <p align="center">
-  <img src="/doc/images/normalization_results/picture_outside/13_0.png" width="400"/>
-  <img src="/doc/images/normalization_results/picture_outside/13_1.png" width="400"/>
+  <img src="/doc/images/normalization_results/texture_artificial/13_0.png" width="400"/>
+  <img src="/doc/images/normalization_results/texture_artificial/13_1.png" width="400"/>
   <br>
   Fig.1. Pair #13
 <p>
