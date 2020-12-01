@@ -133,3 +133,5 @@
   <img src="/doc/images/normalization_results/day_night/overlap_inverse_ORB.jpg" width="400"/>
   <img src="/doc/images/normalization_results/day_night/overlap_inverse_BRISK.jpg" width="400"/>
 <p>
+
+Descriptors ORB1000, KAZE, AKAZE has failed normalization results.
