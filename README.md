@@ -10,39 +10,39 @@ This work is dedicated to:
 <table align="center">
   <tr>
     <td align="center"><img src="/doc/images/normalization_keypoints.jpg" width="200" align="center"></td>
-    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Normalization%20of%20geometrical%20transformations%20based%20on%20the%20descriptors.md#normalization-of-geometrical-transformations-based-on-the-descriptors">Normalization of geometrical transformations based on the descriptors</a></td>
+    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Normalization%20of%20geometrical%20transformations%20based%20on%20the%20descriptors.md#normalization-of-geometrical-transformations-based-on-the-descriptors"><b>Normalization of geometrical transformations based on the descriptors</b></a></td>
   </tr>
   <tr></tr>
   <tr>
     <td align="center"><img src="/doc/images/normalization_matches.jpg" width="300"  align="center"></td>
-    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/The%20purpose%20and%20content%20of%20experiments.md#the-purpose-and-content-of-experiments">The purpose and content of experiments</a></td>
+    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/The%20purpose%20and%20content%20of%20experiments.md#the-purpose-and-content-of-experiments"><b>The purpose and content of experiments</b></a></td>
   </tr>
   <tr></tr>
   <tr>
     <td align="center"><img src="/doc/images/dataset.png" align="center"></td>
-    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Dataset%20description%20for%20research%20of%20descriptor-based%20normalization.md#dataset-description-for-research-of-descriptor-based-normalization">Dataset description for research of descriptor-based normalization</a></td>
+    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Dataset%20description%20for%20research%20of%20descriptor-based%20normalization.md#dataset-description-for-research-of-descriptor-based-normalization"><b>Dataset description for research of descriptor-based normalization</b></a></td>
   </tr>
   <tr></tr>
   <tr>
-    <td align="center"><img src="/doc/images/expert_rates_diagram.png" align="center"></td>
-    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Some%20diagrams%20and%20results%20obtained%20in%20the%20experiments%20and%20conclusions%20on%20experiments.md#some-diagrams-and-results-obtained-in-the-experiments-and-conclusions-on-experiments">Some diagrams and results obtained in the experiments and conclusions on experiments</a></td>
+    <td align="center"><img src="/doc/images/expert_rates_diagram.png" width="500" align="center"></td>
+    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Some%20diagrams%20and%20results%20obtained%20in%20the%20experiments%20and%20conclusions%20on%20experiments.md#some-diagrams-and-results-obtained-in-the-experiments-and-conclusions-on-experiments"><b>Some diagrams and results obtained in the experiments and conclusions on experiments</b></a></td>
   </tr>
   <tr></tr>
   <tr>
     <td align="center"><img src="/doc/images/conclutions2.png" width="400"  align="center"></td>
-    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Conclusions.md#conclusions">Conclusions</a></td>
+    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Conclusions.md#conclusions"><b>Conclusions</b></a></td>
   </tr>
 </table>
 
 <h2>Repository structure</h2>
 
-|Folder | Contains|
+|&nbsp;&nbsp;Name&nbsp;of&nbsp;folder&nbsp;&nbsp; | Contains|
 --- | --- 
-| Dataset_SYTOSS_NURE_pngPairs100     | the description of the constructed dataset SYTOSS_NURE_pngPairs100 (Description SYTOSS_NURE100.pdf) and the dataset itself (100 image pairs as in Fig.6a–e)    
-| RawDataset_SYTOSS_NURE_arw     | original raw images in ARW  
-| Dataset_Day_Night_pngPairs3  | the description of the set Day_Night_pngPairs3 (Descripsion_Day_Night3.pdf) and this set itself (3 image pairs as in Fig.6f)     
-| NormalizationSYTOSS_NURE_pngPairs100 | <ul> <li> the normalization results on each step for each pair  #_0.png_#_1.png:  <ul><li>**“keypoints matches”** (this folder contains the images which illustrate the key points obtained by each descriptor algorithm, the matches found with the NNDR method and the inliers found with the RANSAC method);</li> <li>**“keypoints normalization”** (this folder contains the images which illustrate the common scene overlap as a result of direct normalization and inverse normalization with the displayed key points, where RED -  key points of image2 (inliers); BLUE - key points of image1 (inliers) normalized with the found direct matrix);</li> <li>**“overlap”** (this folder contains the images which illustrate the common scene overlap as a result of direct normalization and inverse normalization)</li> </li> </ul> <li> summary results for the whole dataset  SYTOSS_NURE_pngPairs100  and all sets (DescriptionResultForSYTOSS_NURE.pdf)</li> </ul>
-| NormalizationDay_Night_pngPairs3 |  <ul><li>the normalization results on each step for each pair  #_0.png_#_1.png as for NormalizationSYTOSS_NURE_pngPairs100;</li> <li>summary results for the Day_Night_pngPairs3 set  (DescriptionResultFor Day_Night.pdf)</li></ul>
+| **[Dataset_SYTOSS_NURE_pngPairs100](https://github.com/SytossResearch/DescriptorBasedNormalization/tree/master/Dataset_SYTOSS_NURE_pngPairs100)**     | the description of the constructed dataset SYTOSS_NURE_pngPairs100 (Description SYTOSS_NURE100.pdf) and the dataset itself (100 image pairs as in Fig.6a–e)    
+| **[RawDataset_SYTOSS_NURE_arw](https://github.com/SytossResearch/DescriptorBasedNormalization/tree/master/RawDataset_SYTOSS_NURE_arw)**     | original raw images in ARW  
+| **[Dataset_Day_Night_pngPairs3](https://github.com/SytossResearch/DescriptorBasedNormalization/tree/master/Dataset_Day_Night_pngPairs3)**  | the description of the set Day_Night_pngPairs3 (Descripsion_Day_Night3.pdf) and this set itself (3 image pairs as in Fig.6f)     
+| **[NormalizationSYTOSS_NURE_pngPairs100](https://github.com/SytossResearch/DescriptorBasedNormalization/tree/master/NormalizationSYTOSS_NURE_pngPairs100)** | <ul> <li> the normalization results on each step for each pair  #_0.png_#_1.png:  <ul><li>**“keypoints matches”** (this folder contains the images which illustrate the key points obtained by each descriptor algorithm, the matches found with the NNDR method and the inliers found with the RANSAC method);</li> <li>**“keypoints normalization”** (this folder contains the images which illustrate the common scene overlap as a result of direct normalization and inverse normalization with the displayed key points, where RED -  key points of image2 (inliers); BLUE - key points of image1 (inliers) normalized with the found direct matrix);</li> <li>**“overlap”** (this folder contains the images which illustrate the common scene overlap as a result of direct normalization and inverse normalization)</li> </li> </ul> <li> summary results for the whole dataset  SYTOSS_NURE_pngPairs100  and all sets (DescriptionResultForSYTOSS_NURE.pdf)</li> </ul>
+| **[NormalizationDay_Night_pngPairs3](https://github.com/SytossResearch/DescriptorBasedNormalization/tree/master/NormalizationDay_Night_pngPairs3)** |  <ul><li>the normalization results on each step for each pair  #_0.png_#_1.png as for NormalizationSYTOSS_NURE_pngPairs100;</li> <li>summary results for the Day_Night_pngPairs3 set  (DescriptionResultFor Day_Night.pdf)</li></ul>
 
 <h2>References</h2>
 
