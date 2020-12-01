@@ -31,7 +31,7 @@ This work is dedicated to:
   <tr>
     <td align="center"><img src="/doc/images/conclutions2.png" width="400"  align="center"></td>
     <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Conclusions.md#conclusions"><b>Conclusions</b></a> 
-      <b>and</b> 
+      <b>/</b> 
     <a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Normalization%20results.md#normalization-results"><b>Normalization result examples</b></a> </td>
   </tr>
 </table>
