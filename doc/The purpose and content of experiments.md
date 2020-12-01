@@ -34,6 +34,6 @@ To estimate the normalization results based on the considered descriptors, the i
   
     The interval was calculated using the following formula:
   
-    ### (min + i* step; min + (i+1)*step]
+    #### (min + i* step; min + (i+1)*step]
   
     where step=(max-min)/8, max, min – maximum and minimum values of indicator respectively, i=0,…,7. If a larger value was considered the best for an indicator, then the highest score 8 was assigned to the values from the last interval (min + 7 * step, max]. Vice versa, if a lower value was regarded as the best, then the highest score 8 was assigned to the values from the first interval [min, min + step].
