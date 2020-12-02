@@ -25,7 +25,7 @@ This work is dedicated to:
   <tr></tr>
     <tr>
     <td align="center"><img src="/doc/images/conclutions2.png" align="center"></td>
-    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Normalization%20results.md#normalization-results"><b>Normalization result examples</b></a></td>
+    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Some%20examples%20of%20the%20normalization%20results.md#some-examples-of-the-normalization-results"><b>Some examples of the normalization results</b></a></td>
   </tr>
   <tr></tr>
   <tr>
