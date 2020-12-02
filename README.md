@@ -24,7 +24,7 @@ This work is dedicated to:
   </tr>
   <tr></tr>
     <tr>
-    <td align="center"><img src="/doc/images/conclutions2.png" align="center"></td>
+    <td align="center"><img src="/doc/images/.png" align="center"></td>
     <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Some%20examples%20of%20the%20normalization%20results.md#some-examples-of-the-normalization-results"><b>Some examples of the normalization results</b></a></td>
   </tr>
   <tr></tr>
@@ -34,7 +34,7 @@ This work is dedicated to:
   </tr>
   <tr></tr>
   <tr>
-    <td align="center"><img src="/doc/images/8point_rating_scale_diagram.png" align="center"></td>
+    <td align="center"><img src="/doc/images/conclutions2.png" align="center"></td>
     <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Conclusions.md#conclusions"><b>Conclusions</b></a> 
      </td>
   </tr>
