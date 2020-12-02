@@ -1,4 +1,4 @@
-<h1>Normalization results</h1>
+<h1>Some examples of the normalization results</h1>
 
 <h2>Normalization result for building subset of pair #7 (7_0.png & 7_1.png)</h2>
 
@@ -134,4 +134,7 @@
   <img src="/doc/images/normalization_results/day_night/overlap_inverse_BRISK.jpg" width="400"/>
 <p>
 
-Descriptors ORB1000, KAZE, AKAZE has failed normalization results.
+Descriptors ORB1000, KAZE, AKAZE have failed normalization results.
+
+### All results of normalization for the SYTOSS_NURE_pngPairs100 dataset are here.
+### All results of normalization for the Day_Night_pngPairs3 dataset are here.
