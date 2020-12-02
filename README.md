@@ -14,7 +14,7 @@ This work is dedicated to:
   </tr>
   <tr></tr>
   <tr>
-    <td align="center"><img src="/doc/images/normalization_matches.jpg" width="300"  align="center"></td>
+    <td align="center"><img src="/doc/images/normalization_matches.jpg" align="center"></td>
     <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/The%20purpose%20and%20content%20of%20experiments.md#the-purpose-and-content-of-experiments"><b>The purpose and content of experiments</b></a></td>
   </tr>
   <tr></tr>
