@@ -1,4 +1,4 @@
-<h1>Normalization results</h1>
+<h1>Some examples of the normalization results</h1>
 
 <h2>Normalization result for building subset of pair #7 (7_0.png & 7_1.png)</h2>
 
