@@ -163,20 +163,20 @@
 <h2>Normalization result for day_night subset of pair #3 (3_day.png & 3_night.png)</h2>
 
 <p align="center">
-  <img src="/doc/images/normalization_results/day_night/3_day.png" width="400"/>
-  <img src="/doc/images/normalization_results/day_night/3_night.png" width="400"/>
+  <img src="/doc/images/normalization_results/day_night/3/3_day.png" width="400"/>
+  <img src="/doc/images/normalization_results/day_night/3/3_night.png" width="400"/>
   <br>
   Fig.1. Pair #14
 <p>
 <br>
 <p align="center">
-  <img src="/doc/images/normalization_results/day_night/overlap_inverse_SIFT.jpg" width="400"/>
+  <img src="/doc/images/normalization_results/day_night/3/overlap_inverse_SIFT.jpg" width="400"/>
   <br>
-  <img src="/doc/images/normalization_results/day_night/overlap_inverse_SURF128.jpg" width="400"/>
-  <img src="/doc/images/normalization_results/day_night/overlap_inverse_SURF64.jpg" width="400"/>
+  <img src="/doc/images/normalization_results/day_night/3/overlap_inverse_SURF128.jpg" width="400"/>
+  <img src="/doc/images/normalization_results/day_night/3/overlap_inverse_SURF64.jpg" width="400"/>
   <br>
-  <img src="/doc/images/normalization_results/day_night/overlap_inverse_ORB.jpg" width="400"/>
-  <img src="/doc/images/normalization_results/day_night/overlap_inverse_BRISK.jpg" width="400"/>
+  <img src="/doc/images/normalization_results/day_night/3/overlap_inverse_ORB.jpg" width="400"/>
+  <img src="/doc/images/normalization_results/day_night/3/overlap_inverse_BRISK.jpg" width="400"/>
 <p>
 
 Descriptors ORB1000, KAZE, AKAZE have failed normalization results.
