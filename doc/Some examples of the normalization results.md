@@ -137,7 +137,7 @@
   <img src="/doc/images/normalization_results/picture_outside/14/overlap_inverse_AKAZE.jpg" width="400"/>
 <p>
   
-  <h2>Normalization result for picture_outside subset of pair #14 (14_0.png & 14_1.png)</h2>
+  <h2>Normalization result for picture_outside subset of pair #16 (16_0.png & 16_1.png)</h2>
 
 <p align="center">
   <img src="/doc/images/normalization_results/picture_outside/16/16_0.png" width="400"/>
@@ -155,10 +155,9 @@
   <br>
   <img src="/doc/images/normalization_results/picture_outside/16/overlap_inverse_ORB1000.jpg" width="400"/>
   <img src="/doc/images/normalization_results/picture_outside/16/overlap_inverse_BRISK.jpg" width="400"/>
-  <br>
-  <img src="/doc/images/normalization_results/picture_outside/16/overlap_inverse_KAZE.jpg" width="400"/>
-  <img src="/doc/images/normalization_results/picture_outside/16/overlap_inverse_AKAZE.jpg" width="400"/>
 <p>
+  
+Descriptors KAZE, AKAZE have failed normalization results.
   
 <h2>Normalization result for day_night subset of pair #3 (3_day.png & 3_night.png)</h2>
 
