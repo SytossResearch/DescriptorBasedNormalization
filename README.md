@@ -14,7 +14,7 @@ This work is dedicated to:
   </tr>
   <tr></tr>
   <tr>
-    <td align="center"><img src="/doc/images/normalization_matches.jpg" width="300"  align="center"></td>
+    <td align="center"><img src="/doc/images/normalization_matches.jpg" align="center"></td>
     <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/The%20purpose%20and%20content%20of%20experiments.md#the-purpose-and-content-of-experiments"><b>The purpose and content of experiments</b></a></td>
   </tr>
   <tr></tr>
@@ -23,14 +23,20 @@ This work is dedicated to:
     <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Dataset%20description%20for%20research%20of%20descriptor-based%20normalization.md#dataset-description-for-research-of-descriptor-based-normalization"><b>Dataset description for research of descriptor-based normalization</b></a></td>
   </tr>
   <tr></tr>
+    <tr>
+    <td align="center"><img src="/doc/images/.png" align="center"></td>
+    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Some%20examples%20of%20the%20normalization%20results.md#some-examples-of-the-normalization-results"><b>Some examples of the normalization results</b></a></td>
+  </tr>
+  <tr></tr>
   <tr>
     <td align="center"><img src="/doc/images/expert_rates_diagram.png" width="500" align="center"></td>
     <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Some%20diagrams%20and%20results%20obtained%20in%20the%20experiments%20and%20conclusions%20on%20experiments.md#some-diagrams-and-results-obtained-in-the-experiments-and-conclusions-on-experiments"><b>Some diagrams and results obtained in the experiments and conclusions on experiments</b></a></td>
   </tr>
   <tr></tr>
   <tr>
-    <td align="center"><img src="/doc/images/conclutions2.png" width="400"  align="center"></td>
-    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Conclusions.md#conclusions"><b>Conclusions</b></a></td>
+    <td align="center"><img src="/doc/images/conclutions2.png" align="center"></td>
+    <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Conclusions.md#conclusions"><b>Conclusions</b></a> 
+     </td>
   </tr>
 </table>
 
