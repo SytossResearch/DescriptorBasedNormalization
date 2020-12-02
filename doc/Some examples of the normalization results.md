@@ -134,4 +134,7 @@
   <img src="/doc/images/normalization_results/day_night/overlap_inverse_BRISK.jpg" width="400"/>
 <p>
 
-Descriptors ORB1000, KAZE, AKAZE has failed normalization results.
+Descriptors ORB1000, KAZE, AKAZE have failed normalization results.
+
+### All results of normalization for the SYTOSS_NURE_pngPairs100 dataset are here.
+### All results of normalization for the Day_Night_pngPairs3 dataset are here.
