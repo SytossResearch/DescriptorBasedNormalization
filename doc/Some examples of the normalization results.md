@@ -1,26 +1,72 @@
 <h1>Some examples of the normalization results</h1>
 
-<h2>Normalization result for building subset of pair #7 (7_0.png & 7_1.png)</h2>
+<h2>Normalization result for building subset of pair #2 (2_0.png & 2_1.png)</h2>
 
 <p align="center">
-  <img src="/doc/images/normalization_results/building/7_0.png" width="400"/>
-  <img src="/doc/images/normalization_results/building/7_1.png" width="400"/>
+  <img src="/doc/images/normalization_results/building/2/2_0.png" width="400"/>
+  <img src="/doc/images/normalization_results/building/2/2_1.png" width="400"/>
   <br>
-  Fig.1. Pair #7
+  Fig.1. Pair #2
+<p>
+<br>
+  
+  <table align="center">
+  <tr>
+    <td align="center"><img src="/doc/images/normalization_results/building/2/overlap_inverse_SIFT.jpg" width="400"/></td>
+    <td align="center"><img src="/doc/images/normalization_results/building/2/overlap_inverse_SURF128.jpg" width="400"/></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td align="center"><img src="/doc/images/normalization_results/building/2/overlap_inverse_SURF64.jpg" width="400"/></td>
+    <td align="center"><img src="/doc/images/normalization_results/building/2/overlap_inverse_ORB.jpg" width="400"/></td>
+  </tr>
+   <tr></tr>
+  <tr>
+    <td align="center"><img src="/doc/images/normalization_results/building/2/overlap_inverse_ORB1000.jpg" width="400"/></td>
+    <td align="center"><img src="/doc/images/normalization_results/building/2/overlap_inverse_BRISK.jpg" width="400"/></td>
+  </tr>
+     <tr></tr>
+  <tr>
+    <td align="center"><img src="/doc/images/normalization_results/building/2/overlap_inverse_KAZE.jpg" width="400"/></td>
+    <td align="center"><img src="/doc/images/normalization_results/building/2/overlap_inverse_AKAZE.jpg" width="400"/></td>
+  </tr>
+  </table>
+  
+<p align="center">
+  <img src="/doc/images/normalization_results/building/2/overlap_inverse_SIFT.jpg" width="400"/>
+  <img src="/doc/images/normalization_results/building/2/overlap_inverse_SURF128.jpg" width="400"/>
+  <br>
+  <img src="/doc/images/normalization_results/building/2/overlap_inverse_SURF64.jpg" width="400"/>
+  <img src="/doc/images/normalization_results/building/2/overlap_inverse_ORB.jpg" width="400"/>
+  <br>
+  <img src="/doc/images/normalization_results/building/2/overlap_inverse_ORB1000.jpg" width="400"/>
+  <img src="/doc/images/normalization_results/building/2/overlap_inverse_BRISK.jpg" width="400"/>
+  <br>
+  <img src="/doc/images/normalization_results/building/2/overlap_inverse_KAZE.jpg" width="400"/>
+  <img src="/doc/images/normalization_results/building/2/overlap_inverse_AKAZE.jpg" width="400"/>
+<p>
+  
+<h2>Normalization result for building subset of pair #8 (8_0.png & 8_1.png)</h2>
+
+<p align="center">
+  <img src="/doc/images/normalization_results/building/8/8_0.png" width="400"/>
+  <img src="/doc/images/normalization_results/building/8/8_1.png" width="400"/>
+  <br>
+  Fig.1. Pair #8
 <p>
 <br>
 <p align="center">
-  <img src="/doc/images/normalization_results/building/overlap_inverse_SIFT.jpg" width="400"/>
-  <img src="/doc/images/normalization_results/building/overlap_inverse_SURF128.jpg" width="400"/>
+  <img src="/doc/images/normalization_results/building/8/overlap_inverse_SIFT.jpg" height="300"/>
+  <img src="/doc/images/normalization_results/building/8/overlap_inverse_SURF128.jpg" height="300"/>
   <br>
-  <img src="/doc/images/normalization_results/building/overlap_inverse_SURF64.jpg" width="400"/>
-  <img src="/doc/images/normalization_results/building/overlap_inverse_ORB.jpg" width="400"/>
+  <img src="/doc/images/normalization_results/building/8/overlap_inverse_SURF64.jpg" height="300"/>
+  <img src="/doc/images/normalization_results/building/8/overlap_inverse_ORB.jpg" height="300"/>
   <br>
-  <img src="/doc/images/normalization_results/building/overlap_inverse_ORB1000.jpg" width="400"/>
-  <img src="/doc/images/normalization_results/building/overlap_inverse_BRISK.jpg" width="400"/>
+  <img src="/doc/images/normalization_results/building/8/overlap_inverse_ORB1000.jpg" height="300"/>
+  <img src="/doc/images/normalization_results/building/8/overlap_inverse_BRISK.jpg" height="300"/>
   <br>
-  <img src="/doc/images/normalization_results/building/overlap_inverse_KAZE.jpg" width="400"/>
-  <img src="/doc/images/normalization_results/building/overlap_inverse_AKAZE.jpg" width="400"/>
+  <img src="/doc/images/normalization_results/building/8/overlap_inverse_KAZE.jpg" height="300"/>
+  <img src="/doc/images/normalization_results/building/8/overlap_inverse_AKAZE.jpg" height="300"/>
 <p>
 
 <h2>Normalization result for picture_inside subset of pair #2 (2_0.png & 2_1.png)</h2>
