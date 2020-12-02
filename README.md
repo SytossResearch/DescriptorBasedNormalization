@@ -34,7 +34,7 @@ This work is dedicated to:
   </tr>
   <tr></tr>
   <tr>
-    <td align="center"><img src="/doc/images/conclutions2.png" width="400"  align="center"></td>
+    <td align="center"><img src="/doc/images/8point_rating_scale_diagram.png" align="center"></td>
     <td align="left"><a href="https://github.com/SytossResearch/DescriptorBasedNormalization/blob/master/doc/Conclusions.md#conclusions"><b>Conclusions</b></a> 
      </td>
   </tr>
