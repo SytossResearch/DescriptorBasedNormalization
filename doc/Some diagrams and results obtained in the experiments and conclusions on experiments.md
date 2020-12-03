@@ -3,7 +3,7 @@
 You can see below some obtained regularities (Fig.7,8).
 
 <p align="center">
-  <img src="/doc/images/norm_time_diagram.png"  width="500"/>
+  <img src="/doc/images/norm_time_diagram.jpg"  width="500"/>
   <br>
  Fig.7. Total normalization time costs of one image pair with using the NNDR<br> method for a match search (averaged for the whole dataset)
 <p>
