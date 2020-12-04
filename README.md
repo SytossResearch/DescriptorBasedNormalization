@@ -1,11 +1,19 @@
 <h1>Descriptor based normalization and comparative analysis of SURF, SIFT, BRISK, ORB, KAZE, AKAZE</h1>
 
-This material is intended to accompany the paper **"Research of descriptor based image normalization and comparative analysis of SURF, SIFT, BRISK, ORB, KAZE, AKAZE descriptors"**. The full version can be found at the link [].
-It contains the own dataset with 100 image pairs, the normalized images, their overlaps, the tables with different estimations, the summary diagrams.
+This material is intended to accompany the paper **"Research of descriptor based image normalization and comparative analysis of SURF, SIFT, BRISK, ORB, KAZE, AKAZE descriptors"**. It contains the own dataset with 100 image pairs, the normalized images, their overlaps, the tables with different estimations, the summary diagrams.
+
+The full version can be found at the link [].
 
 This work is dedicated to:
 * research of the parametric normalization approach, where key points and their descriptors are used to find out the normalization parameters;
 * comparing the quality and time costs of the normalization process based on different descriptors. For comparison were selected the full-cycle descriptors, such as SURF128, SURF64, SIFT, BRISK, ORB, ORB1000, KAZE, AKAZE.
+
+In the work, the normalization means the process of compensation of geometric transformations that distinguish one image from another. 
+
+The normalization can be the ultimate goal, for example, in solving problems of cartography, stitching space images, constructing panoramic images, and also it can be treated as a preparatory stage to solve many tasks of image analysis (recognition, search, segmentation, etc.).
+
+Moreover, the results of comparing the quality and time costs of the descriptors SURF128, SURF64, SIFT, BRISK, ORB, ORB1000, KAZE, AKAZE will be useful for solving problems where it is necessary to make decisions on local features of images (detecting, tracking, tagging, recognizing image plagiarism, etc.)
+
 
 <table align="center">
   <tr>
