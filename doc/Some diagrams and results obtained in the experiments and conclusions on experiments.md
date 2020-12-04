@@ -39,7 +39,7 @@ For the convenience of comparative descriptor analysis and making final conclusi
 1. The bubble diagram (Fig.10) which clearly illustrates the number of values of the best expert rate “4” and the time costs for all descriptors, where the point size indicates the number of failed normalizations (“-1” and “0”).
 
 <p align="center">
-  <img src="/doc/images/time_cost_expert_rates_diagrams.jpg"  />
+  <img src="/doc/images/time_cost_expert_rates_diagrams.jpg"  width="600" />
   <br>
 Fig.10. Time costs VS expert rates of quality (the number of values “4” is on the abscissa axis, <br>the time costs value is on the ordinate axis, the point size is the number of failed normalizations (“-1” and “0”),<br> for instance, point size is 2 for SIFT and 12 for KAZE, AKAZE )
 <p>
