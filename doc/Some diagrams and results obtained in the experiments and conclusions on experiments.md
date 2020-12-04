@@ -3,13 +3,13 @@
 You can see below some obtained regularities (Fig.7,8).
 
 <p align="center">
-  <img src="/doc/images/norm_time_diagram.jpg"  width="600"/>
+  <img src="/doc/images/norm_time_diagram.jpg"  width="500"/>
   <br>
  Fig.7. Total normalization time costs of one image pair with using the NNDR<br> method for a match search (averaged for the whole dataset)
 <p>
 <br>
 <p align="center">
-  <img src="/doc/images/expert_rates_diagram.png" width="600" />
+  <img src="/doc/images/expert_rates_diagram.png" width="500" />
   <br>
  Fig.8. Distribution of expert rate values by the descriptors for the SYTOSS_NURE_pngPairs100 dataset<br> (for each descriptor, it is calculated the quantity of the same values of the expert rate (ER) for each value (“0”–”4”),<br> as well as the quantity of cases where the normalization did not occur (“-1”)
 <p>
@@ -60,7 +60,7 @@ The diagrams 10, 11 allow to make the following conclusions:
 * the ORB descriptor has the most essential time costs, and the normalization quality is comparable to SURF64, SURF128, BRISK. The great ORB time costs are caused by the significant expenses on finding matches for a large number of points (the ORB algorithm finds the maximum number of key points, and only 10% of them are used for normalization).
 
 <p align="center">
-  <img src="/doc/images/8point_rating_scale_diagram.png"  />
+  <img src="/doc/images/8point_rating_scale_diagram.jpg"  />
   <br>
 Fig.11. Converting all indicator values to an 8-point rating scale (point 8 is the highest mark). Each value was assigned to one of the marks from 1 to 8, depending on which interval it got into (paragraph 4.5)
 <p>
